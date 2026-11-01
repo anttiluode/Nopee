@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch>=2.5,<3
+gradio==5.49.1
+numpy>=1.26,<3
+pandas>=2.0,<3
+Pillow>=10,<12
+imageio>=2.34,<3
+imageio-ffmpeg>=0.5,<1
